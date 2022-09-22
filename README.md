@@ -2,4 +2,4 @@
 
 Vue practice
 
-![Preview](preview.png)
+![Preview](prewiew.png)
